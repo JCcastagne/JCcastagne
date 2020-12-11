@@ -15,7 +15,7 @@ Here are my current *public* personal projects.
 -JS
 
 
-###I’m currently learning:
+### I’m currently learning:
 
 -Cordova, Xcode, Swift, Android Studio
 
