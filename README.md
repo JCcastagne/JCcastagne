@@ -4,21 +4,20 @@ Currently in Algonquin College for Mobile Application Design & Development.
 
 My school GitHub account: https://github.com/cast0273
 
-My portfolio: https://jccastagne.github.io/Portfolio/
+My **portfolio**: https://jccastagne.github.io/Portfolio/
+
 
 Here are my current *public* personal projects.
 
-### Current languages:
+### Current languages/platforms:
 
--HTML
+-HTML, CSS, JS, C++, C#, Java
 
--CSS
-
--JS
+- PWAs, NodeJS, CRUD/Express, MongoDB, Cordova
 
 
-### I’m currently learning:
+### Currently learning:
 
--Cordova, Xcode, Swift, Android Studio
+- React, Xcode/Swift, Android Studio
 
 
