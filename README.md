@@ -18,6 +18,6 @@ Here are my current *public* personal projects.
 
 ### Currently learning:
 
-- React, Xcode/Swift, Android Studio
+- Python, React, Xcode/Swift, Android Studio/Kotlin
 
 
