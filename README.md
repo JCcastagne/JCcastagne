@@ -2,7 +2,7 @@
 
 Currently in Algonquin College for Mobile Application Design & Development.
 
-###My Portfolio###: https://jccastagne.github.io/Portfolio/
+###My Portfolio: https://jccastagne.github.io/Portfolio/
 
 Dribbble: https://dribbble.com/jccastagne
 
