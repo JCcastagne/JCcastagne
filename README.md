@@ -14,13 +14,13 @@ Here are my current *public* personal projects.
 
 ### Current languages/platforms:
 
-- HTML, CSS, JS, C++, C#, Java
+- Swift, Kotlin, JS, HTML, CSS
 
-- PWAs, NodeJS, CRUD/Express, MongoDB, Cordova
+- NextJS, ReactJS, PWAs, NodeJS, CRUD/Express, MongoDB, Cordova
 
 
 ### Currently learning:
 
-- Python, React, Xcode/Swift, Android Studio/Kotlin
+- React Native, Swift, Kotlin
 
 
