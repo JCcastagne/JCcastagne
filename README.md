@@ -16,7 +16,7 @@ Here are my current *public* personal projects.
 
 - Swift, Kotlin, JS, HTML, CSS
 
-- NextJS, ReactJS, PWAs, NodeJS, CRUD/Express, MongoDB, Cordova
+- React Native, NextJS, ReactJS, NodeJS, CRUD/Express, MongoDB, Cordova
 
 
 ### Currently learning:
