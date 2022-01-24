@@ -14,7 +14,7 @@ Here are my current *public* personal projects.
 
 ### Current languages/platforms:
 
-- Swift, Kotlin, JS, HTML, CSS
+- Swift, Kotlin, JavaScript, HTML, CSS, Bash
 
 - React Native, NextJS, ReactJS, NodeJS, CRUD/Express, MongoDB, Cordova
 
