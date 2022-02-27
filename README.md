@@ -1,26 +1,15 @@
-# Hi, I'm J-C Castagne.
+Hi, I'm J-C 👋
 
-Currently in Algonquin College for Mobile Application Design & Development.
+Currently finishging my final year at Algonquin College for Mobile Application Design & Development.
 
-### My Portfolio: https://jccastagne.github.io/Portfolio/
-
-Dribbble: https://dribbble.com/jccastagne
+### My Portfolio: [JCcastagne.com](http://jccastagne.com "JCcastagne.com")
 
 Hire me on Fiver: https://fiverr.com/jccastagne
 
+------------
 
+**Current languages & platforms:**
 
-Here are my current *public* personal projects.
+Swift, Kotlin, JavaScript/JSX, HTML, CSS, Bash
 
-### Current languages/platforms:
-
-- Swift, Kotlin, JavaScript, HTML, CSS, Bash
-
-- React Native, NextJS, ReactJS, NodeJS, CRUD/Express, MongoDB, Cordova
-
-
-### Currently learning:
-
-- React Native, Swift, Kotlin
-
-
+React Native, NextJS, ReactJS, NodeJS, CRUD/Express, MongoDB, Cordova
